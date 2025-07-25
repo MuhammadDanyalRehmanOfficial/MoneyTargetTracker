@@ -82,12 +82,6 @@ money-target-tracker/
 
 ---
 
-## 🧪 Test Project Goal
-
-> Build a working Android app with a beautiful UI and clean UX focused on helping users track earnings toward a monthly target using Flutter.
-
----
-
 ## 🔓 License
 
 MIT License. Feel free to fork and improve the app!
